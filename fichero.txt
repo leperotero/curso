@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esto es un fichero de texto para la rama1 pero he vuelto a modificar en metaramaotra vez, porque se me olvidó cambiar a la metarama antes.
+=======
+Esto es un fichero de texto para la rama1, pero ha sido modificado para la metarrama
+>>>>>>> Acabo de crear la metarama y he modificado el fichero.txt dentro de esta
